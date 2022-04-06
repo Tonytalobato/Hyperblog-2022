@@ -13,14 +13,12 @@ El curso de Git de Platzi es lo que me hacía falta para triplicarmi salario y l
 En este curso vemos de todo;
 
 · Todos los comandos.
-<<<<<<< HEAD
 · El flujo de trabajo en Github.
 · Trucos muy locos del profesor.
 · Las personalidades múltiples de Freddy.
 
 Y como un amable recordatorio Este readme.md es un chiste
 Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso....
-=======
 
 · El flujo de trabajo en Github.
 
@@ -30,4 +28,3 @@ Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a v
 
 Y como un amable recordatorio Este readme.md es un chiste
 Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso....
->>>>>>> 3419714cf8c920b28f614254ff231c28d8c9c1d1
